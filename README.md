@@ -8,8 +8,6 @@ A flutter developer from Turkey, based in İzmir
 
 ## About Me
 
-- 🔭 I’m currently working on [![Websight](https://img.shields.io/badge/-websight-005571?style=for-the-badge&logo=websight&logoColor=ffffff)](https://www.websight.com.tr/)
-
 - 🌱 I’m currently learning [![Swift](https://img.shields.io/badge/-Swift-005571?style=for-the-badge&logo=Swift&logoColor=ffffff)](https://www.swift.org/)
 
 - 📝 I am not regulary write articles on [![Blog](https://img.shields.io/badge/-medium.com-FF4088?style=for-the-badge&logo=medium)](https://www.medium.com/@ndalyanlar)
